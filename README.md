@@ -6,5 +6,6 @@ Repository ini adalah hasil kerja tim SMKN 1 Kota Kediri pada ajang Lomba Keompe
 ## Keterangan
 - Apa soal yang diberikan?
 Masuklah ke "soal LKS Jatim 2022.pdf"
+
 - Bagaimana cara saya membuka file .ipnyb?
 Gunakan Jupyter Notebook atau ekstensi nya di VS Code
