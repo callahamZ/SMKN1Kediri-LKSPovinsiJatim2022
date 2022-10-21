@@ -8,12 +8,12 @@ import Model as AI
 from time import sleep
 
 #Mengimport data testing
-dftest = pd.read_csv('C:/Users/SMK Telkom Malang/Documents/TEAM 2 AI/data_test.csv', delimiter=';')
+dftest = pd.read_csv('data_test.csv', delimiter=';')
 dftest.drop('No. Urut', axis=1, inplace=True)
 dftest.dropna(inplace=True) ##
 
 #Mengimport data training
-dftrain = pd.read_csv('C:/Users/SMK Telkom Malang/Documents/TEAM 2 AI/data_train.csv', delimiter=';')
+dftrain = pd.read_csv('data_train.csv', delimiter=';')
 dftrain.drop('No', axis=1, inplace=True)
 
 #Mengatasi data Null di kolom Huruf
