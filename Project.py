@@ -64,7 +64,7 @@ def TombolPrediksi(z1,z2,z3,z4,
     print(hasil)
     
     global label_img
-    path = f'C:/Users/SMK Telkom Malang/Documents/TEAM 2 AI/aksara/{hasil}.png'
+    path = f'aksara/{hasil}.png'
 
     img = Image.open(path)
     img = img.resize((300,300))
