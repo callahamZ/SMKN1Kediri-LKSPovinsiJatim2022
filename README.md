@@ -4,6 +4,10 @@
 Repository ini adalah hasil kerja tim SMKN 1 Kota Kediri pada ajang Lomba Keompetensi Siswa (LKS) ke-30 Jawa Timur yang meraih Juara 1 pada bidang lomba Artificial Intelligence
 
 ## Keterangan
+- Bagaimana cara run code ini?
+
+Jalankan project.py
+
 - Apa soal yang diberikan?
 
 Masuklah ke "soal LKS Jatim 2022.pdf"
